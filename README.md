@@ -14,3 +14,5 @@ Figures folder contains example figures created with outputs of this code.
 * `Beam_Profiles`: Mask CMB maps to square region to add source, convolve with Gaussian beam and add noise
 * `utils`: Utilities file with extra functions used throughout along with a nice map cutout plot method
 
+##
+All Code written by Justin Clancy please use appropriately and with permission :) 
