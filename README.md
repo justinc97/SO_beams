@@ -8,3 +8,9 @@ ackage_testing jupyter notebook runs through an example of useage.
 Really the only necessary input is the tube (PySm versions so 'LT2_MFF2' = 145 GHz), and the number of independent realisations.
 
 Figures folder contains example figures created with outputs of this code.
+
+## Contains
+* `sim_prep`: Read CMB simulations and run noise mapsims on the fly
+* `Beam_Profiles`: Mask CMB maps to square region to add source, convolve with Gaussian beam and add noise
+* `utils`: Utilities file with extra functions used throughout along with a nice map cutout plot method
+
